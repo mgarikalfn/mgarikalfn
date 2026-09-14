@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+•+Full-Stack+Developer;Building+full-stack+systems...;Frontend+to+backend+architecture;Clean+code%2C+scalable+systems&font=Fira+Code&center=true&width=600&height=40&color=2563EB&vCenter=true&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%7C+Full-Stack+Developer;Building+full-stack+systems...;Frontend+to+backend+architecture;Clean+code%2C+scalable+systems&font=Fira+Code&center=true&width=600&height=40&color=2563EB&vCenter=true&size=22" />
   </a>
 </p>
 
@@ -118,25 +118,6 @@ Building complete applications with modern React/Next.js interfaces connected to
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mgarikalfn&theme=tokyonight&hide_border=true" height="170" />
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mgarikalfn/mgarikalfn/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mgarikalfn/mgarikalfn/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/mgarikalfn/mgarikalfn/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-<!--
-  ⚠️ Requires a one-time setup: add .github/workflows/snake.yml to your
-  mgarikalfn/mgarikalfn profile repo (see snake.yml provided separately).
-  It commits the generated SVGs to an `output` branch once a day.
-  Until that workflow has run at least once, this image will show as broken.
--->
 
 ---
 
