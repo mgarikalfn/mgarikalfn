@@ -1,4 +1,12 @@
-# 👋 Hi, I'm Girum Kenenisa
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:2563eb&height=180&section=header&text=Girum%20Kenenisa&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20•%20Full-Stack%20Developer&descAlignY=60&descSize=18" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Building+full-stack+systems...;Frontend+to+backend+architecture;Clean+code%2C+scalable+systems;Always+learning%2C+always+shipping&font=Fira+Code&center=true&width=600&height=40&color=2563EB&vCenter=true&size=22" />
+  </a>
+</p>
 
 ### Software Engineer • Full-Stack Developer • Backend & System Architecture
 
@@ -92,12 +100,12 @@ Building complete applications with modern React/Next.js interfaces connected to
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mgarikalfn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgarikalfn&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mgarikalfn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=mgarikalfn&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgarikalfn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgarikalfn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" height="170" />
 </p>
 
 ---
@@ -105,8 +113,27 @@ Building complete applications with modern React/Next.js interfaces connected to
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mgarikalfn&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mgarikalfn&theme=tokyo-night&hide_border=true&cache_seconds=86400" />
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mgarikalfn/mgarikalfn/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mgarikalfn/mgarikalfn/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/mgarikalfn/mgarikalfn/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<!--
+  ⚠️ Requires a one-time setup: add .github/workflows/snake.yml to your
+  mgarikalfn/mgarikalfn profile repo (see snake.yml provided separately).
+  It commits the generated SVGs to an `output` branch once a day.
+  Until that workflow has run at least once, this image will show as broken.
+-->
 
 ---
 
@@ -142,4 +169,8 @@ AI / ML Engineering       ████████████░░░░░░
 
 <p align="center">
   ⭐ Feel free to explore my repositories and projects.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:1e2327&height=100&section=footer" />
 </p>
